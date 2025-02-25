@@ -110,3 +110,26 @@ h3{
     border-radius: 10px;
     border: 2px solid #3882F6;
 }
+
+/* QUOTE */
+
+#container-three{
+    background-color: #E5E7EB;
+}
+
+.bullshit-quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: light;
+    color: #1F2937;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.bullshit-author{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
